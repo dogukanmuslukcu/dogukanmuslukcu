@@ -1,8 +1,5 @@
 ### Hi there I'm Doğukan :wave:
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on programming
 - 🌱 I’m currently learning c#
 - 💬 Ask me about anything
