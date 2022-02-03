@@ -6,7 +6,7 @@ src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY
 - 🌱 I’m currently learning c#
 - 💬 Ask me about anything
 - 📫 How to reach me: dogukanmuslukcu@gmail.com
-- 😄 Pronouns: he/him
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanmuslukcu)
 
