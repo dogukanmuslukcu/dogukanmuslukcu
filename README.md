@@ -12,7 +12,5 @@ src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY
 
 [![Dogukanmuslukcu's github stats](https://github-readme-stats.vercel.app/api?username=dogukanmuslukcu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dogukanmuslukcu/github-readme-stats)
 
-<img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=dogukanmuslukcu&theme=xcode"/>
-
   ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
 
