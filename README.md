@@ -1,16 +1,38 @@
-### Hi there I'm Doğukan :wave:
- <a href="https://github.com/dogukanmuslukcu" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukanmuslukcu&label=Profile%20views&color=129e00&style=plastic" 
-src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080"> </a>
+# Hi, I'm Doğukan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-- 🔭 I’m currently working on programming
-- 🌱 I’m currently learning c# -- java -- javascript
-- 💬 Ask me about anything
-- 📫 How to reach me: dogukanmuslukcu@gmail.com
+<table>
+<tr>
+  <td valign="center">
+   
+    🎓 I am currently pursuing my **Bachelor's in Software Engineering**.
+   
+    🌱 I am currently learning **C# Angular ** and also interested in **Web Development**.
+   
+    🔭 I’m currently working on programming
+   
 
+<td >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanmuslukcu)
+   <a href="https://app.daily.dev/DogukanM"><img src="https://api.daily.dev/devcards/528a3caad15f45368ea0560d27c0b13e.png?r=03g" width="400" alt="Doğukan Muslukçu's Dev Card"/></a>
+  </td>
+</tr>
+</table>
+<br> 
 
-[![Dogukanmuslukcu's github stats](https://github-readme-stats.vercel.app/api?username=dogukanmuslukcu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dogukanmuslukcu/github-readme-stats)
+<br>
 
-  ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dogukanmuslukcu&theme=dracula&hide_border=true)
+
+<br> 
+
+<br>
+
+<br>
+
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanmuslukcu&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dogukanmuslukcu&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukanmuslukcu&theme=highcontrast&hide_border=true" alt="#your-username" />
+</p>
 
