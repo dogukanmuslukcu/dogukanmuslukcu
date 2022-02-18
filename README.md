@@ -4,9 +4,9 @@
 <tr>
   <td valign="center">
    
-    🎓 I am currently pursuing my **Bachelor's in Software Engineering**.
+    🎓 I am currently pursuing my Bachelor's in Software Engineering.
    
-    🌱 I am currently learning **C# Angular ** and also interested in **Web Development**.
+    🌱 I am currently learning  [ C# Angular ] and also interested in Web Development.
    
     🔭 I’m currently working on programming
    
