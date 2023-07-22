@@ -18,17 +18,7 @@
 </tr>
 </table>
 <br> 
-
 <br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dogukanmuslukcu&theme=dracula&hide_border=true)
-
-<br> 
-
-<br>
-
-<br>
-
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanmuslukcu&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
